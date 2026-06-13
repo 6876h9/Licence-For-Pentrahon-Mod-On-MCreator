@@ -39,5 +39,3 @@ Breach of this license terminates your right to use the Mod immediately. You mus
 This agreement is governed by [Your Country/Region] law. Any legal disputes shall be resolved in the courts of [Your Jurisdiction].
 
 ---
-
-**Contact for License Inquiries:** [your email/Discord]
