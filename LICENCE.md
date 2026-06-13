@@ -36,6 +36,6 @@ THE MOD IS PROVIDED "AS-IS" WITHOUT WARRANTY. THE LICENSOR IS NOT RESPONSIBLE FO
 Breach of this license terminates your right to use the Mod immediately. You must delete all copies upon termination.
 
 ## 8. Governing Law
-This agreement is governed by [Your Country/Region] law. Any legal disputes shall be resolved in the courts of [Your Jurisdiction].
+This agreement is governed by Your Country/Region law. Any legal disputes shall be resolved in the courts of Your Jurisdiction.
 
 ---
