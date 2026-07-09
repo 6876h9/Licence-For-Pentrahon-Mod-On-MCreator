@@ -8,7 +8,7 @@ By downloading and using this Minecraft modification ("Mod"), you agree to this 
 ## 2. Permitted Uses
 - Download and play the Mod in single-player or private multiplayer
 - Create and monetize gameplay videos, streams, and reviews on YouTube, Twitch, etc.
-- Use in personal modpacks (not public distribution)
+- Use in personal modpacks (not for public distribution or for creators to make private modpacks)
 
 ## 3. Prohibited Uses
 You may NOT:
@@ -36,6 +36,6 @@ THE MOD IS PROVIDED "AS-IS" WITHOUT WARRANTY. THE LICENSOR IS NOT RESPONSIBLE FO
 Breach of this license terminates your right to use the Mod immediately. You must delete all copies upon termination.
 
 ## 8. Governing Law
-This agreement is governed by Your Country/Region law. Any legal disputes shall be resolved in the courts of Your Jurisdiction.
+This agreement is governed by Your Country/Region law. Any legal disputes shall be resolved in the courts of Pakistan.
 
 ---
